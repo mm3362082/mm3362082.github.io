@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+D.V.A 
 
-D.V.A
 收集C/C++软件开发/Linux软件开发面经和八股文
 
 A data-driven personal website
