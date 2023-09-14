@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "C/C++"
 permalink: /publications/
 author_profile: true
 ---
